@@ -1,12 +1,24 @@
 # Overview:
-Note: Publib for ops information:
+Note: Public for ops information
 
-## Hub Reposiotry:
+## Docker
+
+### Hub Reposiotry:
 https://hub.docker.com/
 
-## Docker Registry:
+### Docker Registry:
 https://hub.docker.com/_/registry
 
-## Install and Setup Docker:
+### Install and Setup Docker:
 
 https://docs.docker.com/engine/install/
+
+
+## Database
+
+## Docker MySQL:
+
+
+
+## Amazon Dynaodb:
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/dynamodb-dg.pdf#DynamoDBLocal
